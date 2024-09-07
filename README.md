@@ -1,5 +1,6 @@
 # POWERPOINT_PRESENTATIONS
 **Overview**
+
 This repository contains a collection of PowerPoint presentations covering various topics. The presentations range from strategic management to financial technologies and conflict resolution, providing useful resources for educational, professional, or nonprofit environments.
 
 **Contents**
